@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=next
+comment0.target=void\ push(java.lang.Object)
+comment0.text=\r\n\ Method\ "push"\r\n\ Inserts\ to\ the\ beginning\ of\ the\ list.\r\n
+comment1.params=
+comment1.target=java.lang.Object\ pop()
+comment1.text=\r\n\ Method\ "pop"\r\n\ Removes\ from\ the\ beginning\ of\ the\ list.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=current
+comment3.target=java.lang.String\ toString(Stack.Node)
+comment4.params=
+comment4.target=int\ size()
+comment5.params=current
+comment5.target=int\ size(Stack.Node)
+comment6.params=
+comment6.target=boolean\ isEmpty()
+numComments=7

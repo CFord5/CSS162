@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Stack()
+comment0.text=\r\n\ Stack\ Constructor\r\n\ This\ is\ the\ default\ constructor,\ sets\ it\ to\ three\ elements.\r\n
+comment1.params=size
+comment1.target=Stack(int)
+comment1.text=\r\n\ Stack\ Constructor\r\n\ This\ constructor\ takes\ in\ an\ integer.\r\n\ Can\ use\ parameter\ to\ adjust\ size\ of\ Object[].\r\n
+comment2.params=other
+comment2.target=void\ push(java.lang.Object)
+comment2.text=\r\n\ Method\ "push"\r\n\ Takes\ an\ Object\ as\ a\ parameter.\r\n\ Adds\ an\ Object\ to\ the\ top\ of\ the\ stack.\r\n
+comment3.params=
+comment3.target=java.lang.Object\ pop()
+comment3.text=\r\n\ Method\ "pop"\r\n\ Removes\ and\ returns\ item\ from\ top\ of\ the\ stack.\r\n
+comment4.params=
+comment4.target=int\ size()
+comment4.text=\r\n\ Method\ "size"\r\n\ Returns\ the\ number\ of\ elements\ in\ the\ stack.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Method\ "toString"\r\n\ Returns\ a\ String\ that\ is\ the\ printed\ Object\ array.\r\n
+comment6.params=
+comment6.target=boolean\ isEmpty()
+comment6.text=\r\n\ Method\ "isEmpty"\r\n\ Returns\ true\ if\ the\ stack\ is\ empty.\r\n
+comment7.params=other
+comment7.target=boolean\ equals(java.lang.Object)
+comment7.text=\r\n\ Method\ "equals"\r\n\ Takes\ in\ an\ Object\ as\ a\ parameter.\r\n\ Returns\ true\ if\ they\ are\ of\ equal\ size.\r\n
+numComments=8

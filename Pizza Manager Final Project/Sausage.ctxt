@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=description\ amount\ calories
+comment0.target=Sausage(java.lang.String,\ Money,\ int)
+comment0.text=\r\n\ "Pepperoni"\ Constructor\r\n\ \ This\ constructor\ calls\ the\ superclass\ constuctor\ to\ initialize\ variables.\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ Method\ "toString"\r\n\ Returns\ the\ name\ of\ the\ ingredient.\r\n
+numComments=2

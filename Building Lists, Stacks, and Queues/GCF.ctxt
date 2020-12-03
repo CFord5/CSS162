@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=top\ bottom
+comment0.target=int\ GCF(int,\ int)
+comment1.params=base\ exp
+comment1.target=int\ power(int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

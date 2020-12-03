@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=description\ amount\ calories
+comment0.target=Olive(java.lang.String,\ Money,\ int)
+comment0.text=\r\n\ "Olive"\ Constructor\r\n\ \ This\ constructor\ calls\ the\ superclass\ constuctor\ to\ initialize\ default\ variables.\r\n
+comment1.params=description\ amount\ calories\ color
+comment1.target=Olive(java.lang.String,\ Money,\ int,\ java.awt.Color)
+comment1.text=\r\n\ "Olive"\ Constructor\r\n\ \ This\ constructor\ calls\ the\ superclass\ constuctor\ to\ initialize\ all\ variables.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Method\ "toString"\r\n\ Returns\ the\ name\ of\ the\ ingredient.\r\n
+numComments=3
